@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+}
+
+#content_area {
+    color: white;
+    display: flex;
+    text-align: center;
+}
+
+#left {
+    width: 30%;
+}
+
+#right {
+    width: 30%;
+}
+
+.section{
+    background-color: brown;
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
